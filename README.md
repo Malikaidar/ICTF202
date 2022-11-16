@@ -21,8 +21,8 @@ def divide(x, y):
 print("Select operation.")
 print("1.Add")
 print("2.Subtract")
-print("3.Multiply")
-print("4.Divide")
+print("3.Multily")
+print("4.Divi")
 
 while True:
     # take input from the user
